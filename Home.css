@@ -1,0 +1,158 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0%;
+    background-color: #fdfdfd;
+}
+
+table {
+    width: 100%;
+    height: 120vh;
+    border-collapse: collapse;
+}
+
+td{
+    vertical-align: top;
+    padding: 20px;
+}
+
+.menu{
+    background-color:lemonchiffon;
+    width: 200px;
+    color:#2c3e50;
+}
+
+.menu a{
+    display: block;
+    color:#2c3e50;
+    padding: 12px;
+}
+
+.menu a:hover{
+    color:antiquewhite;
+}
+
+.content{
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+h2 {
+    color:#2c3e50;
+}
+
+input[type="text"],
+input[type="email"],
+textarea{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="submit"]{
+    background-color:antiquewhite;
+    color:#2c3e50;
+    padding: 10px 20px;
+    border: none;
+    background-color:antiquewhite;
+}
+
+.header{
+    background-color:antiquewhite;
+    color:#2c3e50;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer{
+    background-color:antiquewhite;
+    color:#2c3e50;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0%;
+    background-color: #fdfdfd;
+}
+
+table {
+    width: 100%;
+    height: 120vh;
+    border-collapse: collapse;
+}
+
+td{
+    vertical-align: top;
+    padding: 20px;
+}
+
+.menu{
+    background-color:lemonchiffon;
+    width: 200px;
+    color:#2c3e50;
+}
+
+.menu a{
+    display: block;
+    color:#2c3e50;
+    padding: 12px;
+}
+
+.menu a:hover{
+    color:antiquewhite;
+}
+
+.content{
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+h2 {
+    color:#2c3e50;
+}
+
+input[type="text"],
+input[type="email"],
+textarea{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="submit"]{
+    background-color:antiquewhite;
+    color:#2c3e50;
+    padding: 10px 20px;
+    border: none;
+    background-color:antiquewhite;
+}
+
+.header{
+    background-color:antiquewhite;
+    color:#2c3e50;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer{
+    background-color:antiquewhite;
+    color:#2c3e50;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
